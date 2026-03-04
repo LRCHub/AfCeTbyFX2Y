@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キミリプホリック (LOVE ver.)",
+  "base_artist": "CROWN POP",
+  "createdAt": "2026-03-04T01:30:47.308640Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミリプホリック",
+      "artist": "CROWN POP",
+      "has_synced": false,
+      "path": "select/pl_01_キミリプホリック_CROWN_POP.txt"
+    }
+  ]
+}
